@@ -1,11 +1,67 @@
 <h1 align="center">Hi 👋, I'm Abu Hanif</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abuhanifornob&label=Profile%20views&color=0e75b6&style=flat" alt="abuhanifornob" /> </p>
+![Full Stack Developer](https://i.ibb.co/HzDfbtC/Whats-App-Image-2024-06-10-at-11-46-20-54ce1a1b.jpg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuhanifornob" alt="abuhanifornob" /></a> </p>
+With a solid background in IT support, I am now transitioning into full-stack web development. I bring a unique perspective to web development, combining my technical troubleshooting expertise with a strong foundation in web technologies. My experience includes network settings, camera configuration, PC support, and software installation, which has honed my problem-solving skills and attention to detail. whatever we believe about ourselves and our ability comes true for us. I am a quick learner and passionate about learning new skills always maintain integrity & believe that no legacy is so rich as honesty
 
-- 🌱 I’m currently Working  **Mondol Group**  as a IT Officer 
+I have completed the Programing Hero Lavel-1 and Lavel-2 Courses, where I gained hands-on experience in JavaScript, HTML, CSS, React, Node.js, Express Js, MongoDB, Typescript, Redux, and other web technologies. I am passionate about creating responsive, user-friendly web applications and am eager to leverage my IT background in a full-stack development role
+
+Skills: JavaScript , ES6, React Js, HTML5, CSS, Tailwind,Bootstrap5  Node.js, Express.js, MongoDB, Redux  Toolkit, Firebase,TypeScript, Nextjs, MySQL,Netlify,Vercel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
