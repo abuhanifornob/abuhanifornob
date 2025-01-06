@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Hanif</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-![Full Stack Developer]()
+
 
 With a solid background in IT support, I am now transitioning into full-stack web development. I bring a unique perspective to web development, combining my technical troubleshooting expertise with a strong foundation in web technologies. My experience includes network settings, camera configuration, PC support, and software installation, which has honed my problem-solving skills and attention to detail. whatever we believe about ourselves and our ability comes true for us. I am a quick learner and passionate about learning new skills always maintain integrity & believe that no legacy is so rich as honesty
 
